@@ -1,6 +1,6 @@
 name: Building crdroid
 
-on:
+on
 #  release:
 #    types: [published]
 #  push:
